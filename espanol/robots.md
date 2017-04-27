@@ -1,14 +1,14 @@
-#Robots
+# Robots
 
 En un tiempo muy lejano los robots adquirieron inteligencia suficiente para desenvolverse y mantenerse independientemente
 Inclusive mejoraban sus componentes para realizar tareas mas eficazmente.
 
-##Cuando la humanidad se volvió innecesaria
+## Cuando la humanidad se volvió innecesaria
 
 Cuando ya era absolutamente innecesaria la presencia de los seres humanos, los habitantes electrónicos decidieron gobernar
 
 
-##Se descubrió el fin
+## Se descubrió el fin
 
 Unos seres humanos con mucho conocimiento resolvieron impedirlo y crearon un artefacto que desactivara a todos los electronicos,
 el artefacto fue un exito, de echo todos, de verdad que todos los electrónicos quedaron desactivados.
